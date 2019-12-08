@@ -7,7 +7,7 @@ namespace UNA.Poligonos
 {
     public class Cuadrado : Poligono
     {
-        public int Lado
+        public double Lado
         {
             get;
             set;

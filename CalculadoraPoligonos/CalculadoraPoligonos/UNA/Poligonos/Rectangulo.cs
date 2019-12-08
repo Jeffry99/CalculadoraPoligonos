@@ -7,13 +7,13 @@ namespace UNA.Poligonos
 {
     public class Rectangulo : Poligono
     {
-        public int Base
+        public double Base
         {
             get;
             set;
         }
 
-        public int Altura
+        public double Altura
         {
             get;
             set;

@@ -7,13 +7,13 @@ namespace UNA.Poligonos
 {
     public class Pentagono : Poligono
     {
-        public int Lado
+        public double Lado
         {
             get;
             set;
         }
 
-        public int Apotema
+        public double Apotema
         {
             get;
             set;

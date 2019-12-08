@@ -7,6 +7,7 @@ namespace UNA.Poligonos
 {
     public abstract class Poligono
     {
+        
 
         public abstract double CalcularArea();
 

@@ -7,7 +7,6 @@ namespace UNA.Poligonos
 {
     public class Circulo : Poligono
     {
-        public const double PI = 3.14159265358979;
         public double Radio
         {
             get;
@@ -16,12 +15,12 @@ namespace UNA.Poligonos
 
         public override double CalcularArea()
         {
-            return PI*Radio*Radio;
+            return Math.PI * Radio * Radio;
         }
 
         public override double CalcularPerimetro()
         {
-            return 2 * PI * Radio;
+            return 2 * Math.PI * Radio;
         }
     }
 }

@@ -2,8 +2,8 @@ C:\Users\jeffr\Desktop\UNA\Programación II Verano\GitHub\CalculadoraPoligonos\C
 C:\Users\jeffr\Desktop\UNA\Programación II Verano\GitHub\CalculadoraPoligonos\CalculadoraPoligonos\CalculadoraPoligonos\bin\Debug\CalculadoraPoligonos.exe
 C:\Users\jeffr\Desktop\UNA\Programación II Verano\GitHub\CalculadoraPoligonos\CalculadoraPoligonos\CalculadoraPoligonos\bin\Debug\CalculadoraPoligonos.pdb
 C:\Users\jeffr\Desktop\UNA\Programación II Verano\GitHub\CalculadoraPoligonos\CalculadoraPoligonos\CalculadoraPoligonos\obj\Debug\CalculadoraPoligonos.csprojAssemblyReference.cache
-C:\Users\jeffr\Desktop\UNA\Programación II Verano\GitHub\CalculadoraPoligonos\CalculadoraPoligonos\CalculadoraPoligonos\obj\Debug\CalculadoraPoligonos.Form1.resources
 C:\Users\jeffr\Desktop\UNA\Programación II Verano\GitHub\CalculadoraPoligonos\CalculadoraPoligonos\CalculadoraPoligonos\obj\Debug\CalculadoraPoligonos.Properties.Resources.resources
 C:\Users\jeffr\Desktop\UNA\Programación II Verano\GitHub\CalculadoraPoligonos\CalculadoraPoligonos\CalculadoraPoligonos\obj\Debug\CalculadoraPoligonos.csproj.GenerateResource.cache
 C:\Users\jeffr\Desktop\UNA\Programación II Verano\GitHub\CalculadoraPoligonos\CalculadoraPoligonos\CalculadoraPoligonos\obj\Debug\CalculadoraPoligonos.exe
 C:\Users\jeffr\Desktop\UNA\Programación II Verano\GitHub\CalculadoraPoligonos\CalculadoraPoligonos\CalculadoraPoligonos\obj\Debug\CalculadoraPoligonos.pdb
+C:\Users\jeffr\Desktop\UNA\Programación II Verano\GitHub\CalculadoraPoligonos\CalculadoraPoligonos\CalculadoraPoligonos\obj\Debug\CalculadoraPoligonos.CalculadoraForm.resources
